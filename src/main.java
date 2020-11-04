@@ -2,9 +2,9 @@ public class Main {
     public static void main(String[] args) {
         int balanse = 777;
         int depositamount = 1300;
-        int bonus = depositamount/100;
+        int bonus = depositAmount/100;
         if (depositamount > 1000){
-            bonus = depositamount/100;
+            bonus = depositAmount/100;
         } else {
             bonus = 0;
         }
