@@ -1,5 +1,5 @@
 public class Main {
-    public static void main(String[] args) {
+    public static void Main(String[] args) {
         int balanse = 777;
         int depositamount = 1300;
         int bonus = depositAmount/100;
