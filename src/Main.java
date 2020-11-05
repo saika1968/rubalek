@@ -1,9 +1,9 @@
-public class Main {
-    public static void Main(String[] args) {
+public class main {
+    public static void main(String[] args) {
         int balanse = 777;
-        int depositamount = 1300;
+        int depositAmount = 1300;
         int bonus = depositAmount/100;
-        if (depositamount > 1000){
+        if (depositAmount > 1000){
             bonus = depositAmount/100;
         } else {
             bonus = 0;
